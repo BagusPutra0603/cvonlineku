@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903349284726",
+    "firebase_url": "https://myonlinecv-dbf38.firebaseio.com",
+    "project_id": "myonlinecv-dbf38",
+    "storage_bucket": "myonlinecv-dbf38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903349284726:android:44fa9037748f64f9765457",
+        "android_client_info": {
+          "package_name": "com.example.bagusputra.myonlinecv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903349284726-blr0a35vklfi87512f2ml69avfc1b6hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bagusputra.myonlinecv",
+            "certificate_hash": "a29e9dda9bcf365ced1e02c0dea57ef87780e096"
+          }
+        },
+        {
+          "client_id": "903349284726-5u67h19kig2vjn5u5qefgd6k2ohrbqln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1LadZy5suOTlB1Bh9P4aOFpddGuNLVGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903349284726-5u67h19kig2vjn5u5qefgd6k2ohrbqln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
